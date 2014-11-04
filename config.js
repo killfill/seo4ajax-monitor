@@ -1,0 +1,17 @@
+module.exports =
+{
+	sites: [
+		"5551ab476b71ceeb4f9ff57ecae237ae",
+		"8b8192a21d3619763a2725d1e7cb36f9",
+		"47755aa8070a6a99897bba08fe33b23a",
+		"d740cb62af170e4af7ef2141c4d7df4a",
+		"3fcd869c5446873b4759a523f308161b",
+		"5a4a786da9a1bf755857fb59ba9b04af",
+		"193e24dd9eee195739bea1fff08219aa",
+		"cb983fa3d17ee969eb10aa66efa22992",
+		"f34d159e89a0432d1ba79ef8e145bf13",
+		"2201e8a08fd220b0344d4a7276b3c8de",
+		"5d3a9b53559fd9df7f585dc737452a67"
+	],
+	cookie: 'the_cookie'
+}
